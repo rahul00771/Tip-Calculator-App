@@ -7,4 +7,6 @@
     <string name="ten_p">Okay ( 10% )</string>
     <string name="button_message">Calculate tip</string>
     <string name="tip_amount">Tip Amount</string>
+    <string name="round_up_the_tip">Round up the Tip ?</string>
+    <string name="store_icon">store icon</string>
 </resources>

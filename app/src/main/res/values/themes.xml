@@ -2,12 +2,12 @@
     <!-- Base application theme. -->
     <style name="Theme.TipApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/myBlueGrey</item>
-        <item name="colorPrimaryVariant">@color/myBlueGreyDark</item>
+        <item name="colorPrimary">@color/myGreen</item>
+        <item name="colorPrimaryVariant">@color/myGreenDark</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/myGrey</item>
-        <item name="colorSecondaryVariant">@color/myBlueGreyDark</item>
+        <item name="colorSecondary">@color/myYGreen</item>
+        <item name="colorSecondaryVariant">@color/myYGreenDark</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
